@@ -284,8 +284,8 @@ footer{
     padding-top: 5%;
 }
 footer h5{
-    color: #fff;
-    text-align: center;
+    color: #888;
+	text-align: center;
     padding-bottom: 1%;
 }
   footer .content{
@@ -309,7 +309,7 @@ footer h5{
   }
   footer .content .middle a{
     line-height: 32px;
-    color: #fff;
+    color: #888;
     text-decoration: none;
   }
   footer .content .middle a:hover{
@@ -319,7 +319,7 @@ footer h5{
       padding: 8px;
       background-color: transparent;
       border: 1px solid #999;
-      color: white;
+      color: #888;
   }
   footer .content .middle select option{
       background-color: #000;
