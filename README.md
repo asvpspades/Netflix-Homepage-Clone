@@ -1,1 +1,1 @@
-A Netflix homepage clone made with HTML, CSS & Javascript.
+A recreation of Netflix's homepage made with HTML, CSS & Javascript.
